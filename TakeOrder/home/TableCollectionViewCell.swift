@@ -11,14 +11,12 @@ import UIKit
 class TableCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var lbName: UILabel!
-    @IBOutlet weak var lbStatus: UILabel!
     
     var table: Table? {
         didSet {
             guard let table = table else { return }
             
             lbName.text = table.name
-            lbStatus.text = table.status
         }
     }
     
