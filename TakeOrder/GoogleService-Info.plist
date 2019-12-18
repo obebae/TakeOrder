@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>495686433116-r3rlq9792u1aqhot0dv20ejeije8u7fq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.495686433116-r3rlq9792u1aqhot0dv20ejeije8u7fq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNfFwtuyz51C__P7EXRXjptbkxTYOVlTo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>495686433116</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.obebae.TakeOrder</string>
+	<key>PROJECT_ID</key>
+	<string>fir-c8f58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-c8f58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:495686433116:ios:2abca90d0e7dc6ff63e999</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-c8f58.firebaseio.com</string>
+</dict>
+</plist>
